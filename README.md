@@ -1,6 +1,6 @@
 # flutter_auth_provider
 
-A new Flutter project.
+Firebase Authentication with Provider.
 
 ## Getting Started
 
